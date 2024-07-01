@@ -36,3 +36,5 @@ import { MatInputModule } from '@angular/material/input';
     MatTableModule]
 })
 export class MaterialModule { }
+
+// https://github.com/Chanda-Abdul/Angular-Multi-step-form/blob/master/src/app/components/form/form-steps/step-four-summary/step-four-summary.component.ts
